@@ -150,7 +150,8 @@ Format du packet `TWEET`:
 		"retweetedByMe":false,
 		"accessLevel":0
 	}
-}```  
+}
+```
 NB: je n'ai listé ci-dessous que les champs les plus utiles. Vous pouvez facilement deviner à quoi servent les autres ;)  
 `data` contient les données d'un tweet.  
 `data.created_at` Timestamp représentant la date de création du tweet.  
